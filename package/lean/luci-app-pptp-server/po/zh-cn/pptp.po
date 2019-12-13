@@ -11,7 +11,7 @@ msgid "PPTP Service"
 msgstr "PPTP 服务设置"
 
 msgid "Local IP"
-msgstr "PPTP 服务器IP"
+msgstr "本地IP"
 
 msgid "Client IP"
 msgstr "客户端分配的IP范围"

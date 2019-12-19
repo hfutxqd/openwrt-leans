@@ -18,7 +18,7 @@ PKG_LICENSE:=MIT
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_VERSION:=0.22.3
-PKG_SOURCE_URL:=https://codeload.github.com/nondanee/UnblockNeteaseMusic/tar.gz/v$(PKG_SOURCE_VERSION)
+PKG_SOURCE_URL:=https://codeload.github.com/nondanee/UnblockNeteaseMusic/tar.gz/v$(PKG_SOURCE_VERSION)?
 PKG_HASH:=9436a44ef6fd838dc76d68f2d01a815fc29274ef14a419cc826db1706111e96b
 
 include $(INCLUDE_DIR)/package.mk

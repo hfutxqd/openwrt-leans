@@ -5,7 +5,7 @@ define Package/wl12xx-firmware/install
 		$(PKG_BUILD_DIR)/ti-connectivity/wl127x-fw-5-mr.bin \
 		$(PKG_BUILD_DIR)/ti-connectivity/wl127x-fw-5-plt.bin \
 		$(PKG_BUILD_DIR)/ti-connectivity/wl127x-fw-5-sr.bin \
-		$(PKG_BUILD_DIR)/ti-connectivity/wl1271-nvs.bin \
+		$(PKG_BUILD_DIR)/ti-connectivity/wl127x-nvs.bin \
 		$(PKG_BUILD_DIR)/ti-connectivity/wl128x-fw-5-mr.bin \
 		$(PKG_BUILD_DIR)/ti-connectivity/wl128x-fw-5-plt.bin \
 		$(PKG_BUILD_DIR)/ti-connectivity/wl128x-fw-5-sr.bin \
